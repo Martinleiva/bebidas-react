@@ -2,7 +2,7 @@
 
 Proyecto usando React y Hooks haciendo una llamada al API-Rest de bebidas para recetas de las mismas.
 
-Link al proyecto [Presupuestos React](https://festive-bassi-968b09.netlify.com/)
+Link al proyecto [Bebidas React](https://festive-bassi-968b09.netlify.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
